@@ -1,6 +1,6 @@
 # Systems-Programming Project: System Logger
 
-Assignment programmed by David Sapida and Andre Stillo (Add GitLink Here) 
+Assignment programmed by David Sapida and Andre Stillo (https://github.com/afstillo) 
 
 Program Objectives
 - Check if a specified user was online every second.

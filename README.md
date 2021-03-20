@@ -12,3 +12,5 @@ Program Objectives
 - Keep script running in tracking user activity or online/offline status and appending information to log file.
 - Remove duplicate entries in the log file to keep every log entry unique
 - Terminate program if user logs off and the log file has the interaction with the specified file logged.
+
+log.txt is a sample output from our test conducted when we had to keep our script running overnight to capture our professor's processes and activities

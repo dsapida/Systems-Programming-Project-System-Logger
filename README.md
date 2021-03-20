@@ -2,8 +2,6 @@
 
 Assignment programmed by David Sapida and Andre Stillo (Add GitLink Here) 
 
-Language: Bash
-
 Program Objectives
 - Check if a specified user was online every second.
 - Appends information to a log file (text file) with a timestamp if either 2 conditions are meet
